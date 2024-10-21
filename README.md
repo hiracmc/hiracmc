@@ -7,6 +7,6 @@ C1ick
 ↑🤣Botti🤣↑
 
 ### Link
-![あいこそ](./Assets/hirac.jpeg)[HomePage](https://hiracmc.github.io/hirac.github.io/)
+![あいこそ](./Assets/hirac.jpeg)[![あいこそ](./Assets/hirac.jpeg)](https://hiracmc.github.io/hirac.github.io/)
 
-[Fiicen](https://fiicen.jp/field/hirac)
+![あいこそ](./Assets/fiicen.jpeg)[Fiicen](https://fiicen.jp/field/hirac)
