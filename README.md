@@ -5,6 +5,6 @@ C1ick
 ↑🤣Botti🤣↑
 
 ### Link
-![HomePage](https://hiracmc.github.io/hirac.github.io/)
+[HomePage](https://hiracmc.github.io/hirac.github.io/)
 
-... Create a Minecraft add-on
+ Create a Minecraft add-on ...
