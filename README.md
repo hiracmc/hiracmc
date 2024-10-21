@@ -11,4 +11,3 @@ C1ick
 [![あいこそ](./Assets/fiicen.jpeg)](https://fiicen.jp/field/hirac)
 [![あいこそ](./Assets/note.jpeg)](https://note.com/hiracmc)
 
-![あいこそ](https://hiracmc.github.io/hirac.github.io/)
