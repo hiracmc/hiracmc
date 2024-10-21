@@ -6,5 +6,4 @@ C1ick
 
 ### Link
 [HomePage](https://hiracmc.github.io/hirac.github.io/)
-
- Create a Minecraft add-on ...
+[Fiicen](https://fiicen.jp/field/hirac)
