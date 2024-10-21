@@ -1,4 +1,10 @@
-## Hi there 👋
+## Minecraft / HIRAC
+
+### Member
+C1ick
+↑🤣Botti🤣↑
+
+-# あいうえお
 
 <!--
 **hiracmc/hiracmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
