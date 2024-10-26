@@ -2,9 +2,10 @@
 
 ### Member
 
-C1ick
+C1ick 
 
-↑🤣Botti🤣↑
+(´・ω・｀)
+
 
 ### Link
 [![あいこそ](./Assets/hirac.jpeg)](https://hiracmc.github.io/hirac.github.io/)
